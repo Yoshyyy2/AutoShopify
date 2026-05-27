@@ -1,0 +1,2 @@
+# AutoShopify
+AutoShopify Bot
